@@ -145,12 +145,19 @@ python rubix.py
 
 ## 🖼 Screenshots
 - Initial State:
+  
   <img width="863" height="387" alt="image" src="https://github.com/user-attachments/assets/7eb57820-b53b-49af-85d9-a4171b07e9fe" />
+  
 - Scrambled Cube:
+  
   <img width="863" height="380" alt="image" src="https://github.com/user-attachments/assets/d1b602fc-3a30-4253-b908-29a00c3bfa0b" />
+  
 - Magic Solver (Auto solves the Cube):
+  
   <img width="863" height="376" alt="image" src="https://github.com/user-attachments/assets/102f8cfb-c1d2-4d1d-afed-4bcdc28c66d5" />
+  
 - Goal State Reached:
+  
   <img width="865" height="380" alt="image" src="https://github.com/user-attachments/assets/8060af24-8fd9-4d3a-bb73-842ef6eee267" />
 
 ---
@@ -158,4 +165,5 @@ python rubix.py
 ## 🙌 Acknowledgements
 
 Kociemba's Algorithm - for optimal Rubik’s Cube solutions
+
 Collins Aerospace - for the AeroHack Challenge platform
